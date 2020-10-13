@@ -1,0 +1,22 @@
+#root, html, body {
+    height: 100vh;
+}
+
+body {
+    margin: 0;
+    background-color: whitesmoke;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
