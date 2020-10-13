@@ -3,4 +3,4 @@ News Reader is here ! I have built a Voice Recognition React News Application - 
 ![Alan-AI-News-Application-Google](https://user-images.githubusercontent.com/51352791/95830398-3ce5b380-0d55-11eb-8a18-2afbb3de5dd9.gif)
 
 
-Demo video:
+
