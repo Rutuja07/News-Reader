@@ -4,3 +4,5 @@ News Reader is here ! I have built a Voice Recognition React News Application - 
 
 
 
+preview
+https://5f855cf3e0699ca8347f98a8--eloquent-banach-1a35fd.netlify.app/
